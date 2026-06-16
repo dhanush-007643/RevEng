@@ -1,0 +1,19 @@
+body{
+    background:#f4f6f9;
+}
+
+.stat-card{
+    border:none;
+    border-radius:15px;
+    box-shadow:0 4px 12px rgba(0,0,0,0.1);
+}
+
+.card{
+    border:none;
+    border-radius:15px;
+    box-shadow:0 4px 12px rgba(0,0,0,0.08);
+}
+
+table{
+    background:white;
+}
